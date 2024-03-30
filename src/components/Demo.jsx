@@ -84,9 +84,9 @@ const Demo = () => {
           />
           <button
             type='submit'
-            className='submit_btn border-none'
+            className='submit_btn peer-focus:border-gray-700 peer-focus:text-gray-700'
           >
-            <img src="/src/assets/next.png" width="25px" alt="" />
+            <p>↵</p>
           </button>
         </form>
 
